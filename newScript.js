@@ -1,5 +1,6 @@
-console.log("Hello World);
-function dispMessage(time){
+console.log("Hello World");
+function dispMessage(){
+let time = prompt("Please enter the time of day (am/pm): ");
 let morningMsg = "Good Morning";
 let eveningMsg = "Good Evening";
 	switch(time){
