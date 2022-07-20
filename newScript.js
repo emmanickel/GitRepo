@@ -1,3 +1,4 @@
+const prompt = require('prompt-sync')();
 console.log("Hello World");
 function dispMessage(){
 let time = prompt("Please enter the time of day (am/pm): ");
