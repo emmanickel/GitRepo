@@ -15,6 +15,6 @@ let eveningMsg = "Good Evening";
 			console.log("Invalid entry");
 }
 }
-
+dispMessage();
 
 
