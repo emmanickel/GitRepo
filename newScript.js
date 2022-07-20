@@ -11,7 +11,7 @@ let eveningMsg = "Good Evening";
 			console.log(eveningMsg);
 			break
 		default:
-			console.log("Invalid entry);
+			console.log("Invalid entry");
 }
 }
 
